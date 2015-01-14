@@ -4,7 +4,7 @@ Rubaiyat of Khayyam encoded in plain XML and TEI standard.
 
 ##Language
 
-This repositiry includes Rubaiyat in Persian and English. The English translation is done by Edward FitzGerald.
+This repository includes Rubaiyat in Persian and English. The English translation was done by Edward FitzGerald.
 
 ##Disclaimer
 
